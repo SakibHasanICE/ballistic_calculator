@@ -1,0 +1,11 @@
+# Ignore virtual environment
+venv/
+
+# Ignore environment variables file
+.env
+
+
+ballistic_finetune_data_1000.json
+
+
+openai_finetune_ready.jsonl

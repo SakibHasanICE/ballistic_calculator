@@ -1,0 +1,6 @@
+py-ballisticcalc==2.1.0
+py-ballisticcalc[exts]
+streamlit
+plotly
+python-dotenv
+openai
