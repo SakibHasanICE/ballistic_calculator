@@ -4,3 +4,9 @@ streamlit
 plotly
 python-dotenv
 openai
+streamlit
+transformers
+peft
+torch
+matplotlib
+
